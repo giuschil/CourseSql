@@ -19,3 +19,5 @@ FROM SCONTRINI
 ORDER BY CodFid ;
 
 
+SELECT *
+FROM articoli;
